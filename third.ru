@@ -1,2 +1,2 @@
-require './my_server'
-run MyServer.new
+require_relative './my_server'
+run MyServer.new 
